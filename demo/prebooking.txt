@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>view booking</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+<div style="background-color:#b5cd60">
+   <div>
+   
+	<center><h1><I>SMART PARKING</I></h1></center>
+</div>
+</div>
+    <div id="login">
+      <form name='form-login'>
+
+
+<label for="name">Name:</label>
+        <input type="text" id="name" name="user_name">
+    
+        <label for="contact">Contact:</label>
+        <input type="text" id="contact" name="contact">
+      
+        <label for="bookingid">Booking:</label>
+        <input type="text" id="bookingid" name="bookingid">
+       
+	   
+        <label for="place">Place:</label>
+        <input type="text" id="place" name="place">
+     
+     </form>
+  
+  
+</body>
+</html>
